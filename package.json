@@ -1,0 +1,10 @@
+{
+	"name": "advent-of-code2022-day1",
+	"type": "module",
+	"scripts": {
+		"ts": "tsc -w"
+	},
+	"devDependencies": {
+		"typescript": "^4.9.3"
+	}
+}
